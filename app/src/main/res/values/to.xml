@@ -1,0 +1,11 @@
+<resources>
+    <string name="app1_name">UnitConverter</string>
+    <string name="unit1_prompt">Choose a unit:</string>
+
+    <string-array name="unit1_arrays">
+        <item>Centimetres</item>
+        <item>Grams</item>
+        <item>Feet</item>
+
+    </string-array>
+</resources>

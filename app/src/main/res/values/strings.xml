@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="unit_prompt">Choose a unit:</string>
+
+    <string-array name="unit_arrays">
+        <item>Metres</item>
+        <item>Kilograms</item>
+        <item>Inches</item>
+
+    </string-array>
+</resources>
